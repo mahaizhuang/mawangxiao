@@ -1,0 +1,36 @@
+import matplotlib.pyplot as plt
+import numpy as np
+import math as mh
+#
+PI = 2*(np.pi)
+t = np.linspace(0,PI,2000)
+#
+x = 13*(np.power((np.sin(t)),4))
+y = ((-17)*np.cos(t))+(9*np.cos(2*t))+((-0.1)*np.cos(3*t))+(np.cos(4*t))+(0.1*np.cos(5*t))
+#
+plt.figure(num=6,figsize=(10,50),dpi=80,facecolor='tan',edgecolor='darksalmon')
+#
+plt.plot(x,y,color='blue',linewidth=1.0,linestyle='-')
+#
+plt.xlabel('x')
+plt.ylabel('y')
+#
+plt.axis('equal')
+#
+ax=plt.gca()
+
+ax.spines['right'].set_color('teal')
+ax.spines['top'].set_color('r')
+
+ax.spines['bottom'].set_color('cyan')
+ax.spines['left'].set_color('cyan')
+
+ax.xaxis.set_ticks_position('bottom')
+ax.spines['bottom'].set_position(('data',0))
+
+ax.yaxis.set_ticks_position('left')
+ax.spines['left'].set_position(('data',0))
+#
+ax.set_title('Y==Bubby',fontsize=18,color='gold')
+#
+plt.show()
