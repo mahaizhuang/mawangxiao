@@ -3,7 +3,7 @@
   ## vNF网关
  
  ### cpu绑定说明
-    ``` shell
+    ```
     {
     "product_idcode": "66abfef143689bc855b48246cf47786a", 
     "model": "SINE-VCPE-I60-INTEL4820-X", 
@@ -124,6 +124,6 @@
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODExNzc2MSwtNTI3ODM4Njg1LDc2Mj
-czMTY4OCwtNzk2NjMyNDc0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjg4MTAwNzg1LC01Mjc4Mzg2ODUsNzYyNz
+MxNjg4LC03OTY2MzI0NzQsLTIwODg3NDY2MTJdfQ==
 -->
