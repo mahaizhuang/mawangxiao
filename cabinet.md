@@ -3,7 +3,7 @@
  - [ ] `List item`
 
     1111
-    ``` shell
+    ```
     {
     "product_idcode": "66abfef143689bc855b48246cf47786a", 
     "model": "SINE-VCPE-I60-INTEL4820-X", 
@@ -124,6 +124,6 @@
     ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTU5NjY1NjgsLTc5NjYzMjQ3NCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzYyNzMxNjg4LC03OTY2MzI0NzQsLTIwOD
+g3NDY2MTJdfQ==
 -->
