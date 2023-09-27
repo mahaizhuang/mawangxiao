@@ -1,7 +1,8 @@
    # network
    
   ## vNF网关
-  
+ 
+ ### cpu绑定说明
     ```
     {
     "product_idcode": "66abfef143689bc855b48246cf47786a", 
@@ -123,6 +124,6 @@
     ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTI0MjEwMyw3NjI3MzE2ODgsLTc5Nj
+eyJoaXN0b3J5IjpbLTUyNzgzODY4NSw3NjI3MzE2ODgsLTc5Nj
 YzMjQ3NCwtMjA4ODc0NjYxMl19
 -->
