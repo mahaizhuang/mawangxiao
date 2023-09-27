@@ -122,8 +122,19 @@
 }
   
  ```
-    
+* 物理口收发队列
+  vswitch发绑定cpu之和：1+1+4 = 6
+* vswitch虚拟口收发队列
+  vswitch1，vswitch2，vswitch9发：对应物理口绑定cpu之和+vswitch主动发：1+1 = 2
+* vcpe虚拟口收发队列
+  vcpe1，vcpe2：收队列：对应vswitch发：2
+  vcpe1，vcpe2：发队列：收+1：2+1 = 3
+  在这里时，vswitch虚拟口的发就是vswitch收了，也就是
+  vswitch1，vswitch2收：3
+  vswitch9：它的收和它的发一样：2
+* mirror虚拟口收发队列
+  不确定，好像收发等于vswitch的发，vcpe的收
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE0NDk1MTMsLTUyNzgzODY4NSw3Nj
-I3MzE2ODgsLTc5NjYzMjQ3NCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTI4NTA2MDg2NiwtNTI3ODM4Njg1LDc2Mj
+czMTY4OCwtNzk2NjMyNDc0LC0yMDg4NzQ2NjEyXX0=
 -->
