@@ -122,6 +122,7 @@
 }
   
  ```
+
 * 物理口发队列
   vswitch发绑定cpu之和：1+1+4 = 6
 * vswitch虚拟口发队列
@@ -135,7 +136,7 @@
 * mirror虚拟口收发队列
   不确定，好像收发等于vswitch的发，vcpe的收
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ0NTU5NTAsLTI4NTA2MDg2NiwtNT
-I3ODM4Njg1LDc2MjczMTY4OCwtNzk2NjMyNDc0LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbMjExNTAyMTI1MiwtMjg1MDYwODY2LC01Mj
+c4Mzg2ODUsNzYyNzMxNjg4LC03OTY2MzI0NzQsLTIwODg3NDY2
+MTJdfQ==
 -->
