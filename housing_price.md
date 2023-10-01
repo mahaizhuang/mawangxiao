@@ -16,7 +16,7 @@
  ```shell
  房贷利率 = LPR + 政策加点 + 银行加点
  ```
-一般购房贷款都是五年期LPR，但是近些年来看，五年期LPR基本没有变化，那只需要关注后面的参数就是了，我们可以简化点：
+一般购房贷款都是五年期LPR，但是近些年来看，五年期LPR基本没有变化，那只需要关注后面的参数就是了，一般术语我们可以简化点：
 ```shell
 房贷利率 = LPR + BP
 ```
@@ -25,7 +25,7 @@
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Mzk5NjI5NywxNzEyOTA4MzI1LDE2MT
+eyJoaXN0b3J5IjpbMTM4MzQ5NTQ4OSwxNzEyOTA4MzI1LDE2MT
 QzOTY2MywxNTkyMjM5NzYwLDEyMjMzNDY5NSwxNDEzODIyNzY1
 LDQ2NzYxMDk4NiwtMjAzNzUwMTUyLC0xNzUzMTk0MTExLDE5Mz
 U4MjcwNjAsLTIyNjcxNzYwNiwyMTA4MTM3MjM4LC03NTM4MjUz
