@@ -2,10 +2,10 @@
 
 > 前言：在某个城市购置一套自己的房产，对于某些年轻男性而言，是结婚的必要条件，这就像雄孔雀开屏炫耀自己色泽鲜艳的尾屏以吸引雌孔雀进行求偶一样，房子的目的和孔雀开屏的目的一样。
 > 只是在某些人某些地方购房时还有许多未知的危险在，对于这些危险在事前基本上无能为力，没办法，人为刀俎，我为鱼肉，古时的官名州牧中，牧就是牧民的意思，大意就是像管理牲畜一样管理民众，如今其实也差不多。
-> 就像房地产一样，政府卖地赚钱，房地产开发商买地建房，或者从银行贷款建房，而民众又从银行贷款向房地产买房，这里面复杂的经济动作眼花缭乱不甚明理，
+> 就像房地产一样，政府卖地赚钱，房地产开发商买地建房，或者从银行贷款建房，而民众又从银行贷款向房地产买房，这里面复杂的经济动作眼花缭乱不甚明理，反正最后 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyODc1MzI4LC0xNDc1ODgwMzE1LDY1MD
+eyJoaXN0b3J5IjpbNTgwNDEwNTgwLC0xNDc1ODgwMzE1LDY1MD
 c2NzA1LC0xMzIzODcyNDMyLC0yMzY2NzMyNDgsLTI0NTA4MTM1
 MSwtMTU3Njg2OTgwMiw1OTIxMTQ5MjYsLTEzNTYyNjEzMDUsMj
 YxNDczMjM5LDExNjAyODk5OTMsODU2ODk0MjY5LDIxMzUwMjUw
