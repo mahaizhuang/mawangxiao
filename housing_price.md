@@ -13,9 +13,9 @@
 ## 房贷利率
 - 一年期LPR
 - 五年期LPR
-    ```shell
-    房贷利率 = LPR + 政策加点 + 银行加点
-    ```
+ ```shell
+ 房贷利率 = LPR + 政策加点 + 银行加点
+ ```
 一般购房贷款都是五年期LPR，但是近些年来看，五年期LPR基本没有变化，那只需要关注后面的参数就是了，我们可以简化点：
 ```shell
 房贷利率 = LPR + BP
@@ -23,11 +23,11 @@
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDM5NjYzLDE1OTIyMzk3NjAsMTIyMz
-M0Njk1LDE0MTM4MjI3NjUsNDY3NjEwOTg2LC0yMDM3NTAxNTIs
-LTE3NTMxOTQxMTEsMTkzNTgyNzA2MCwtMjI2NzE3NjA2LDIxMD
-gxMzcyMzgsLTc1MzgyNTM5MCwtMTc4OTY1MjM1OSwxMzg1NDE5
-NjQzLDc0OTQyNDUyNSwtMTAyODUyMjcyNCwtMTE2MDUwMzY0NS
-w2Nzc5ODg2NTcsNzA4MDEyODMyLC0yMDI0OTQ5NDY2LDEyODI1
-MDUzNzRdfQ==
+eyJoaXN0b3J5IjpbMzc4Nzc4OTYzLDE2MTQzOTY2MywxNTkyMj
+M5NzYwLDEyMjMzNDY5NSwxNDEzODIyNzY1LDQ2NzYxMDk4Niwt
+MjAzNzUwMTUyLC0xNzUzMTk0MTExLDE5MzU4MjcwNjAsLTIyNj
+cxNzYwNiwyMTA4MTM3MjM4LC03NTM4MjUzOTAsLTE3ODk2NTIz
+NTksMTM4NTQxOTY0Myw3NDk0MjQ1MjUsLTEwMjg1MjI3MjQsLT
+ExNjA1MDM2NDUsNjc3OTg4NjU3LDcwODAxMjgzMiwtMjAyNDk0
+OTQ2Nl19
 -->
