@@ -24,7 +24,7 @@
  - 贷款利率:LPR(+-)n个基点:比如郑州五年期LPR为4.2%，目前下降50个基点，那么
  
 ```shell
-房贷利率 = LPR + 政策加点 + 银行加点
+房贷利率 = LPR - BP = 4.2% - 0.5% = 3.7%
  ```
 一般购房贷款都是五年期LPR，但是近些年来看，五年期LPR基本没有变化，那只需要关注后面的参数就是了，一般术语我们可以简化点：
 ```shell
@@ -40,7 +40,7 @@
   [# 时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjQ3MDcwOSw2NTY4MjA5MjMsLTQwMD
+eyJoaXN0b3J5IjpbLTg4OTc1NTM5OCw2NTY4MjA5MjMsLTQwMD
 UxOTk1NCwtOTA3Mjc3NzczLC0zNTg3NDEyMiwxNzM2MjcwNDM3
 LC0zNjkwNDcwNTUsLTEzMzM2OTcxMjgsLTEzMDg5MjM1MDAsNj
 U5MDkzODQ0LDEzODM0OTU0ODksMTcxMjkwODMyNSwxNjE0Mzk2
