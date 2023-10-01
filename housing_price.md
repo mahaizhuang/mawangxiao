@@ -1,8 +1,8 @@
 # 蚂蚁购狱房指南
 
-> 前言：房子对国人有 
+> 前言：房子对国人有不同的含义，
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzEyMTY3NiwyMTM1MDI1MDYzLDE4NT
+eyJoaXN0b3J5IjpbMjAzNTU0MjIwMywyMTM1MDI1MDYzLDE4NT
 U1NTIwNjBdfQ==
 -->
