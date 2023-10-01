@@ -11,7 +11,7 @@
 >总之，购房者从花钱买房开始，他就需要承担几乎所有的风险，而且在各个环节都是被针对的对象，花钱买罪受一点也不假。这就是被牧的基本特点，它们永远是强奸的对象。
 ---
 ## 房贷利率
-** 贷款市场报价利率(LPR): **
+** 贷款市场报价利率(LPR):具有代表性的报价行，根据本行对最优质客户的贷款利率，以公开市场操作利率加点形成的方式报价，由人民银行授权全国银行间同业拆借中心计算并公布的基础性的贷款参考利率。 **
 - 一年期LPR
 - 五年期LPR
 ```shell
@@ -27,7 +27,7 @@
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ0Nzc1OTcsLTM2OTA0NzA1NSwtMT
+eyJoaXN0b3J5IjpbLTE3NDQ5NDkxMTMsLTM2OTA0NzA1NSwtMT
 MzMzY5NzEyOCwtMTMwODkyMzUwMCw2NTkwOTM4NDQsMTM4MzQ5
 NTQ4OSwxNzEyOTA4MzI1LDE2MTQzOTY2MywxNTkyMjM5NzYwLD
 EyMjMzNDY5NSwxNDEzODIyNzY1LDQ2NzYxMDk4NiwtMjAzNzUw
