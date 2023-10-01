@@ -23,7 +23,7 @@
   - [ ] 一年期LPR
   - [ ] 五年期LPR：像房贷就是典型的五年期LPR标准
  - 贷款利率:
-  - [ ] 1年期和5年期以上的贷款利率由直接对应的LPR作为基准
+   - [ ] 1年期和5年期以上的贷款利率由直接对应的LPR作为基准
  - LPR(+-)n个基点:比如郑州五年期LPR为4.2%，目前下降50个基点，那么
 ```shell
 房贷利率 = LPR - BP = 4.2% - 0.5% = 3.7%
@@ -39,11 +39,11 @@
   [# 时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwODEyMTU5LC0xMDkyOTU5OTAwLC0xMD
-k3NjgxNzEzLC0xNjE0MjI4NDgyLDQwOTA3Njg0OSw2NTY4MjA5
-MjMsLTQwMDUxOTk1NCwtOTA3Mjc3NzczLC0zNTg3NDEyMiwxNz
-M2MjcwNDM3LC0zNjkwNDcwNTUsLTEzMzM2OTcxMjgsLTEzMDg5
-MjM1MDAsNjU5MDkzODQ0LDEzODM0OTU0ODksMTcxMjkwODMyNS
-wxNjE0Mzk2NjMsMTU5MjIzOTc2MCwxMjIzMzQ2OTUsMTQxMzgy
-Mjc2NV19
+eyJoaXN0b3J5IjpbLTE1NTg4NDU4MjEsLTEwOTI5NTk5MDAsLT
+EwOTc2ODE3MTMsLTE2MTQyMjg0ODIsNDA5MDc2ODQ5LDY1Njgy
+MDkyMywtNDAwNTE5OTU0LC05MDcyNzc3NzMsLTM1ODc0MTIyLD
+E3MzYyNzA0MzcsLTM2OTA0NzA1NSwtMTMzMzY5NzEyOCwtMTMw
+ODkyMzUwMCw2NTkwOTM4NDQsMTM4MzQ5NTQ4OSwxNzEyOTA4Mz
+I1LDE2MTQzOTY2MywxNTkyMjM5NzYwLDEyMjMzNDY5NSwxNDEz
+ODIyNzY1XX0=
 -->
