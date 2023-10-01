@@ -21,7 +21,7 @@
 - LPR品种
   - [ ] 一年期LPR
   - [ ] 五年期LPR
- - 贷款利率:LPR(+-)n个基点
+ - 贷款利率:LPR(+-)n个基点:比如郑州
 ```shell
 房贷利率 = LPR + 政策加点 + 银行加点
  ```
@@ -39,7 +39,7 @@
   [# 时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNjIxOTkyNiwtNDAwNTE5OTU0LC05MD
+eyJoaXN0b3J5IjpbLTg3MTMzOTE4MSwtNDAwNTE5OTU0LC05MD
 cyNzc3NzMsLTM1ODc0MTIyLDE3MzYyNzA0MzcsLTM2OTA0NzA1
 NSwtMTMzMzY5NzEyOCwtMTMwODkyMzUwMCw2NTkwOTM4NDQsMT
 M4MzQ5NTQ4OSwxNzEyOTA4MzI1LDE2MTQzOTY2MywxNTkyMjM5
