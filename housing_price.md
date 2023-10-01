@@ -1,11 +1,11 @@
 # 蚂蚁购狱房指南
 
 > 前言：在某个城市购置一套自己的房产，对于某些年轻男性而言，是结婚的必要条件，这就像雄孔雀开屏炫耀自己色泽鲜艳的尾屏以吸引雌孔雀进行求偶一样，房子的目的和孔雀开屏的目的一样。
-> 只是在某些人在某些地方购房时还有许多未知的地方的
+> 只是在某些人在某些地方购房时还有许多未知的危险在， 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjY3MzI0OCwtMjQ1MDgxMzUxLC0xNT
-c2ODY5ODAyLDU5MjExNDkyNiwtMTM1NjI2MTMwNSwyNjE0NzMy
-MzksMTE2MDI4OTk5Myw4NTY4OTQyNjksMjEzNTAyNTA2MywxOD
-U1NTUyMDYwXX0=
+eyJoaXN0b3J5IjpbMTczNjg5NzgzLC0yMzY2NzMyNDgsLTI0NT
+A4MTM1MSwtMTU3Njg2OTgwMiw1OTIxMTQ5MjYsLTEzNTYyNjEz
+MDUsMjYxNDczMjM5LDExNjAyODk5OTMsODU2ODk0MjY5LDIxMz
+UwMjUwNjMsMTg1NTU1MjA2MF19
 -->
