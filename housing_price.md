@@ -4,12 +4,12 @@
 > 只是在某些人某些地方购房时还有许多未知的危险在，对于这些危险在事前基本上无能为力，没办法，人为刀俎，我为鱼肉，古时的官名州牧中，牧就是牧民的意思，大意就是像管理牲畜一样管理民众，如今其实也差不多。
 > 就像房地产一样，政府卖地赚钱，房地产开发商买地建房，或者从银行贷款建房，而民众又从银行贷款向房地产买房，这里面复杂的经济动作眼花缭乱不甚明理，反正最后就是整个链条中政府，银行，房地产开发商都赚到钱，把所有的风险全部留给了买房者：
 
- - 期房烂尾的原因是房地商拿着买房者的钱非法挪给它用，这中间银行，政府等等相关部门监管无力；更可能根本就是装作没看见，渎职犯罪，和房地商开发商沆瀣一气。期房烂尾之后，银行，政府等等相关部门又是秉承“维稳止讼”的传统，怎么处理才能把事情平复下来，很显示，处理合理诉求的买房者是第一选择。毕竟整个链条上所有节点除了购房者之外，所有节点都把钱拿到手了，
+ - 期房烂尾的原因是房地商拿着买房者的钱非法挪给它用，这中间银行，政府等等相关部门监管无力；更可能根本就是装作没看见，渎职犯罪，和房地商开发商沆瀣一气。期房烂尾之后，银行，政府等等相关部门又是秉承“维稳止讼”的传统，怎么处理才能把事情平复下来，很显示，处理合理诉求的买房者是第一选择。毕竟整个链条上所有节点除了购房者之外，其它节点都把钱拿到手了，
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzcwOTQ2NzksLTEzMDIzNDExMzksLT
-k1Mzk1NCwxMzkwODA0NzgsLTE0NzU4ODAzMTUsNjUwNzY3MDUs
-LTEzMjM4NzI0MzIsLTIzNjY3MzI0OCwtMjQ1MDgxMzUxLC0xNT
-c2ODY5ODAyLDU5MjExNDkyNiwtMTM1NjI2MTMwNSwyNjE0NzMy
-MzksMTE2MDI4OTk5Myw4NTY4OTQyNjksMjEzNTAyNTA2MywxOD
-U1NTUyMDYwXX0=
+eyJoaXN0b3J5IjpbMTU1NDI1ODI3NywtMjEzNzA5NDY3OSwtMT
+MwMjM0MTEzOSwtOTUzOTU0LDEzOTA4MDQ3OCwtMTQ3NTg4MDMx
+NSw2NTA3NjcwNSwtMTMyMzg3MjQzMiwtMjM2NjczMjQ4LC0yND
+UwODEzNTEsLTE1NzY4Njk4MDIsNTkyMTE0OTI2LC0xMzU2MjYx
+MzA1LDI2MTQ3MzIzOSwxMTYwMjg5OTkzLDg1Njg5NDI2OSwyMT
+M1MDI1MDYzLDE4NTU1NTIwNjBdfQ==
 -->
