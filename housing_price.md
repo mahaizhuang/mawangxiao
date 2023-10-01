@@ -10,7 +10,7 @@
  - :tent:你购置了一套房子，小区所在物业又是一个问题，物业存不存在乱收费，服务质量怎么样，大家不会奢望物业服务质量很好，最大的愿意就是不坑人，能够处理基本合理的诉求，实质上业主们是花钱买物业去伺候他们。小区的物业是一个风险点。
 >总之，购房者从花钱买房开始，他就需要承担几乎所有的风险，而且在各个环节都是被针对的对象，花钱买罪受一点也不假。这就是被牧的基本特点，它们永远是强奸的对象。
 ---
-## 参考来源
+## :city_sunrise:参考来源
 [【1】时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
 
 [【2】房贷计算器](https://www.efangdai.cn/)
@@ -21,7 +21,7 @@
 
 ---
   
-## 房贷利率
+## :city_sunrise:房贷利率
 
 > 信息具有时效性，比如目前是LPR工具，过几年可能变成其它
 
@@ -77,7 +77,7 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUwNzc3NTAsNjg0NDM3MjAsLTQ3Nz
+eyJoaXN0b3J5IjpbLTE0MTc5NDI2NDgsNjg0NDM3MjAsLTQ3Nz
 c5NzAzOCw0NjA5Nzk3Miw0OTEyNjc5OSwyMDYzMTQ1NjIsNzIw
 OTcyOTc2LC00Mjg4NjY3ODYsLTE3MTE5ODc3NTAsMTk0MTc4Mz
 AyMCwtODEwNjYxOTIsLTEyMjM4NTAzMDIsLTExNzI3ODg5MDUs
