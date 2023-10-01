@@ -17,7 +17,7 @@
 - 产生时间
   - [ ] 每月一次
 - 产生方式
-- [ ] 
+  - [ ] 由18家报价银行独立报价，全国同业拆借中心按去掉最高和最低报价后算术平均，向0.05%的整数倍就近取整计算得出
 - LPR品种
   - [ ] 一年期LPR
   - [ ] 五年期LPR
@@ -35,7 +35,7 @@
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODc3NDM4OCwtMzU4NzQxMjIsMTczNj
+eyJoaXN0b3J5IjpbLTkwNzI3Nzc3MywtMzU4NzQxMjIsMTczNj
 I3MDQzNywtMzY5MDQ3MDU1LC0xMzMzNjk3MTI4LC0xMzA4OTIz
 NTAwLDY1OTA5Mzg0NCwxMzgzNDk1NDg5LDE3MTI5MDgzMjUsMT
 YxNDM5NjYzLDE1OTIyMzk3NjAsMTIyMzM0Njk1LDE0MTM4MjI3
