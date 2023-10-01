@@ -1,4 +1,4 @@
-# 蚂蚁购狱房指南
+# :ferris_wheel:蚂蚁购狱房指南
 
 > 前言：在某个城市购置一套自己的房产，对于某些年轻男性而言，是结婚的必要条件，这就像雄孔雀开屏炫耀自己色泽鲜艳的尾屏以吸引雌孔雀进行求偶一样，房子的目的和孔雀开屏的目的一样，都是为自己的生殖器寻找交配对象繁衍后代。
 > 只是在某些人某些地方购房时还有许多未知的危险在，对于这些危险在事前基本上无能为力，没办法，人为刀俎，我为鱼肉，古时的官名州牧中，牧就是牧民的意思，大意就是像管理牲畜一样管理民众，如今其实也差不多。
@@ -12,11 +12,11 @@
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk2NTIzNTksMTM4NTQxOTY0Myw3ND
-k0MjQ1MjUsLTEwMjg1MjI3MjQsLTExNjA1MDM2NDUsNjc3OTg4
-NjU3LDcwODAxMjgzMiwtMjAyNDk0OTQ2NiwxMjgyNTA1Mzc0LD
-E2MjE1NzM2OTQsLTk5NzAyMzc2MywxNDQyOTA0OTc0LDEyOTQ3
-MDQxNDMsLTIxMzcwOTQ2NzksLTEzMDIzNDExMzksLTk1Mzk1NC
-wxMzkwODA0NzgsLTE0NzU4ODAzMTUsNjUwNzY3MDUsLTEzMjM4
-NzI0MzJdfQ==
+eyJoaXN0b3J5IjpbMTc3NTQyNTE1MCwtMTc4OTY1MjM1OSwxMz
+g1NDE5NjQzLDc0OTQyNDUyNSwtMTAyODUyMjcyNCwtMTE2MDUw
+MzY0NSw2Nzc5ODg2NTcsNzA4MDEyODMyLC0yMDI0OTQ5NDY2LD
+EyODI1MDUzNzQsMTYyMTU3MzY5NCwtOTk3MDIzNzYzLDE0NDI5
+MDQ5NzQsMTI5NDcwNDE0MywtMjEzNzA5NDY3OSwtMTMwMjM0MT
+EzOSwtOTUzOTU0LDEzOTA4MDQ3OCwtMTQ3NTg4MDMxNSw2NTA3
+NjcwNV19
 -->
