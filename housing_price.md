@@ -29,13 +29,7 @@
   - [ ] 每月一次
 - 产生方式
   - [ ] 由18家报价银行独立报价，全国同业拆借中心按去掉最高和最低报价后算术平均，向0.05%的整数倍就近取整计算得出
-+---------------+  
-| LPR报价行 |
-+---------------+
-|--|
-| 中国工商银行 |
-| 中国工商银行 | | 中国农业银行 | | 中国银行 | | 中国建设银行 | | 交通银行 | | 邮政储蓄银行 | | 招商银行 | | 兴业银行 | | 浦东发展银行 | | 中国民生银行 | | 南京银行 | | 台州银行 | | 上海农村商业银行 | | 顺德农村商业银行 | | 渣打银行(中国) | | 花旗银行(中国) | | 微众银行 | | 网商银行 | 
-+---------------+
+
 
 - LPR品种
   - [ ] 一年期LPR
@@ -61,11 +55,11 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUzMDM5NzIsMjA2MzE0NTYyLDcyMD
-k3Mjk3NiwtNDI4ODY2Nzg2LC0xNzExOTg3NzUwLDE5NDE3ODMw
-MjAsLTgxMDY2MTkyLC0xMjIzODUwMzAyLC0xMTcyNzg4OTA1LD
-g5NjAwMDU2MywtNjI1ODU2MDA4LC0xMDkyOTU5OTAwLC0xMDk3
-NjgxNzEzLC0xNjE0MjI4NDgyLDQwOTA3Njg0OSw2NTY4MjA5Mj
-MsLTQwMDUxOTk1NCwtOTA3Mjc3NzczLC0zNTg3NDEyMiwxNzM2
-MjcwNDM3XX0=
+eyJoaXN0b3J5IjpbMTkxNTgyNzAzNiwyMDYzMTQ1NjIsNzIwOT
+cyOTc2LC00Mjg4NjY3ODYsLTE3MTE5ODc3NTAsMTk0MTc4MzAy
+MCwtODEwNjYxOTIsLTEyMjM4NTAzMDIsLTExNzI3ODg5MDUsOD
+k2MDAwNTYzLC02MjU4NTYwMDgsLTEwOTI5NTk5MDAsLTEwOTc2
+ODE3MTMsLTE2MTQyMjg0ODIsNDA5MDc2ODQ5LDY1NjgyMDkyMy
+wtNDAwNTE5OTU0LC05MDcyNzc3NzMsLTM1ODc0MTIyLDE3MzYy
+NzA0MzddfQ==
 -->
