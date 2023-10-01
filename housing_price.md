@@ -5,12 +5,12 @@
 > 就像房地产一样，政府卖地赚钱，房地产开发商买地建房，或者从银行贷款建房，而民众又从银行贷款向房地产买房，这里面复杂的经济动作眼花缭乱不甚明理，反正最后就是整个链条中政府，银行，房地产开发商都赚到钱，把所有的风险全部留给了买房者：
 
  - 期房烂尾的原因是房地商拿着买房者的钱非法挪给它用，这中间银行，政府等等相关部门监管无力；更可能根本就是装作没看见，渎职犯罪，和房地商开发商沆瀣一气。期房烂尾之后，银行，政府等等相关部门又是秉承“维稳止讼”的传统，怎么处理才能把事情平复下来，很显示，处理合理诉求的买房者是第一选择。毕竟整个链条上所有节点除了购房者之外，其它节点都把钱拿到手了，既然拿到手了，责任能不付就不付。
- - 国内的住宅楼多是高层楼，三十多层高的住宅楼，就像
+ - 国内的住宅楼多是高层楼，三十多层高的住宅楼，就像装饰漂亮点的 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDcwNDE0MywtMjEzNzA5NDY3OSwtMT
-MwMjM0MTEzOSwtOTUzOTU0LDEzOTA4MDQ3OCwtMTQ3NTg4MDMx
-NSw2NTA3NjcwNSwtMTMyMzg3MjQzMiwtMjM2NjczMjQ4LC0yND
-UwODEzNTEsLTE1NzY4Njk4MDIsNTkyMTE0OTI2LC0xMzU2MjYx
-MzA1LDI2MTQ3MzIzOSwxMTYwMjg5OTkzLDg1Njg5NDI2OSwyMT
-M1MDI1MDYzLDE4NTU1NTIwNjBdfQ==
+eyJoaXN0b3J5IjpbLTE1OTcyNjEwNSwxMjk0NzA0MTQzLC0yMT
+M3MDk0Njc5LC0xMzAyMzQxMTM5LC05NTM5NTQsMTM5MDgwNDc4
+LC0xNDc1ODgwMzE1LDY1MDc2NzA1LC0xMzIzODcyNDMyLC0yMz
+Y2NzMyNDgsLTI0NTA4MTM1MSwtMTU3Njg2OTgwMiw1OTIxMTQ5
+MjYsLTEzNTYyNjEzMDUsMjYxNDczMjM5LDExNjAyODk5OTMsOD
+U2ODk0MjY5LDIxMzUwMjUwNjMsMTg1NTU1MjA2MF19
 -->
