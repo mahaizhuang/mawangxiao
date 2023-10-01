@@ -11,7 +11,7 @@
 >总之，购房者从花钱买房开始，他就需要承担几乎所有的风险，而且在各个环节都是被针对的对象，花钱买罪受一点也不假。这就是被牧的基本特点，它们永远是强奸的对象。
 ---
   [# 时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
-  ---
+---
   
 ## 房贷利率
 ** 贷款市场报价利率（LPR）是由具有代表性的报价行，根据本行对最优质客户的贷款利率，以公开市场操作利率加点形成的方式报价，由人民银行授权全国银行间同业拆借中心计算并公布的基础性的贷款参考利率。 **
@@ -42,11 +42,11 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDAwNTYzLC02MjU4NTYwMDgsLTEwOT
-I5NTk5MDAsLTEwOTc2ODE3MTMsLTE2MTQyMjg0ODIsNDA5MDc2
-ODQ5LDY1NjgyMDkyMywtNDAwNTE5OTU0LC05MDcyNzc3NzMsLT
-M1ODc0MTIyLDE3MzYyNzA0MzcsLTM2OTA0NzA1NSwtMTMzMzY5
-NzEyOCwtMTMwODkyMzUwMCw2NTkwOTM4NDQsMTM4MzQ5NTQ4OS
-wxNzEyOTA4MzI1LDE2MTQzOTY2MywxNTkyMjM5NzYwLDEyMjMz
-NDY5NV19
+eyJoaXN0b3J5IjpbMzgxNjQ5OTcxLDg5NjAwMDU2MywtNjI1OD
+U2MDA4LC0xMDkyOTU5OTAwLC0xMDk3NjgxNzEzLC0xNjE0MjI4
+NDgyLDQwOTA3Njg0OSw2NTY4MjA5MjMsLTQwMDUxOTk1NCwtOT
+A3Mjc3NzczLC0zNTg3NDEyMiwxNzM2MjcwNDM3LC0zNjkwNDcw
+NTUsLTEzMzM2OTcxMjgsLTEzMDg5MjM1MDAsNjU5MDkzODQ0LD
+EzODM0OTU0ODksMTcxMjkwODMyNSwxNjE0Mzk2NjMsMTU5MjIz
+OTc2MF19
 -->
