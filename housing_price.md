@@ -13,11 +13,12 @@
 ## 房贷利率
 - 一年期LPR
 - 一年期LPR
+- 
     房贷利率 = LPR + 政策加点 + 银行加点
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU0NDA4MjYsMTkzNTgyNzA2MCwtMj
+eyJoaXN0b3J5IjpbLTE3NTMxOTQxMTEsMTkzNTgyNzA2MCwtMj
 I2NzE3NjA2LDIxMDgxMzcyMzgsLTc1MzgyNTM5MCwtMTc4OTY1
 MjM1OSwxMzg1NDE5NjQzLDc0OTQyNDUyNSwtMTAyODUyMjcyNC
 wtMTE2MDUwMzY0NSw2Nzc5ODg2NTcsNzA4MDEyODMyLC0yMDI0
