@@ -37,6 +37,7 @@
   - 计算举例:比如郑州五年期LPR为4.2%，目前下降50个基点，那么
 ```bash
 房贷利率 = LPR - BP = 4.2% - 0.5% = 3.7%
+#等于当你的一个还贷周期过了之后，再以一个新的周期还贷时，你的房贷利率按3.7%计算，按100万贷款来算，你可以省下1000多块钱
  ```
 
 
@@ -50,7 +51,7 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzMDcxNzQ2LDcyMDk3Mjk3NiwtNDI4OD
+eyJoaXN0b3J5IjpbMjA2MzE0NTYyLDcyMDk3Mjk3NiwtNDI4OD
 Y2Nzg2LC0xNzExOTg3NzUwLDE5NDE3ODMwMjAsLTgxMDY2MTky
 LC0xMjIzODUwMzAyLC0xMTcyNzg4OTA1LDg5NjAwMDU2MywtNj
 I1ODU2MDA4LC0xMDkyOTU5OTAwLC0xMDk3NjgxNzEzLC0xNjE0
