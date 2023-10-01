@@ -17,11 +17,11 @@
     ```
     房贷利率 = LPR + 政策加点 + 银行加点
     ```
-一般
+一般贷款
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDUxNTIwNiw0Njc2MTA5ODYsLTIwMz
+eyJoaXN0b3J5IjpbMTQxMzgyMjc2NSw0Njc2MTA5ODYsLTIwMz
 c1MDE1MiwtMTc1MzE5NDExMSwxOTM1ODI3MDYwLC0yMjY3MTc2
 MDYsMjEwODEzNzIzOCwtNzUzODI1MzkwLC0xNzg5NjUyMzU5LD
 EzODU0MTk2NDMsNzQ5NDI0NTI1LC0xMDI4NTIyNzI0LC0xMTYw
