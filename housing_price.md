@@ -11,9 +11,9 @@
 >总之，购房者从花钱买房开始，他就需要承担几乎所有的风险，而且在各个环节都是被针对的对象，花钱买罪受一点也不假。这就是被牧的基本特点，它们永远是强奸的对象。
 ---
 ## 参考来源
-[时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
+[【1】时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
 
-[房贷计算器](https://www.efangdai.cn/)
+[【2】房贷计算器](https://www.efangdai.cn/)
 
 ---
   
@@ -46,11 +46,11 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE5ODc3NTAsMTk0MTc4MzAyMCwtOD
-EwNjYxOTIsLTEyMjM4NTAzMDIsLTExNzI3ODg5MDUsODk2MDAw
-NTYzLC02MjU4NTYwMDgsLTEwOTI5NTk5MDAsLTEwOTc2ODE3MT
-MsLTE2MTQyMjg0ODIsNDA5MDc2ODQ5LDY1NjgyMDkyMywtNDAw
-NTE5OTU0LC05MDcyNzc3NzMsLTM1ODc0MTIyLDE3MzYyNzA0Mz
-csLTM2OTA0NzA1NSwtMTMzMzY5NzEyOCwtMTMwODkyMzUwMCw2
-NTkwOTM4NDRdfQ==
+eyJoaXN0b3J5IjpbMTEyNjYyMzIyMywtMTcxMTk4Nzc1MCwxOT
+QxNzgzMDIwLC04MTA2NjE5MiwtMTIyMzg1MDMwMiwtMTE3Mjc4
+ODkwNSw4OTYwMDA1NjMsLTYyNTg1NjAwOCwtMTA5Mjk1OTkwMC
+wtMTA5NzY4MTcxMywtMTYxNDIyODQ4Miw0MDkwNzY4NDksNjU2
+ODIwOTIzLC00MDA1MTk5NTQsLTkwNzI3Nzc3MywtMzU4NzQxMj
+IsMTczNjI3MDQzNywtMzY5MDQ3MDU1LC0xMzMzNjk3MTI4LC0x
+MzA4OTIzNTAwXX0=
 -->
