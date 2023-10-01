@@ -29,6 +29,11 @@
   - [ ] 每月一次
 - 产生方式
   - [ ] 由18家报价银行独立报价，全国同业拆借中心按去掉最高和最低报价后算术平均，向0.05%的整数倍就近取整计算得出
+| header 1 | header 2 |
+| -------- | -------- |
+| cell 1   | cell 2   |
+| cell 3   | cell 4   |
+| cell 5   | cell 6   |
 
 
 - LPR品种
@@ -55,11 +60,11 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTgyNzAzNiwyMDYzMTQ1NjIsNzIwOT
-cyOTc2LC00Mjg4NjY3ODYsLTE3MTE5ODc3NTAsMTk0MTc4MzAy
-MCwtODEwNjYxOTIsLTEyMjM4NTAzMDIsLTExNzI3ODg5MDUsOD
-k2MDAwNTYzLC02MjU4NTYwMDgsLTEwOTI5NTk5MDAsLTEwOTc2
-ODE3MTMsLTE2MTQyMjg0ODIsNDA5MDc2ODQ5LDY1NjgyMDkyMy
-wtNDAwNTE5OTU0LC05MDcyNzc3NzMsLTM1ODc0MTIyLDE3MzYy
-NzA0MzddfQ==
+eyJoaXN0b3J5IjpbNzY4NTkwNjE2LDIwNjMxNDU2Miw3MjA5Nz
+I5NzYsLTQyODg2Njc4NiwtMTcxMTk4Nzc1MCwxOTQxNzgzMDIw
+LC04MTA2NjE5MiwtMTIyMzg1MDMwMiwtMTE3Mjc4ODkwNSw4OT
+YwMDA1NjMsLTYyNTg1NjAwOCwtMTA5Mjk1OTkwMCwtMTA5NzY4
+MTcxMywtMTYxNDIyODQ4Miw0MDkwNzY4NDksNjU2ODIwOTIzLC
+00MDA1MTk5NTQsLTkwNzI3Nzc3MywtMzU4NzQxMjIsMTczNjI3
+MDQzN119
 -->
