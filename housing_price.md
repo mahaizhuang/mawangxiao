@@ -15,6 +15,7 @@
 - 作用
   - [ ] LPR已成为贷款利率定价的主要参考基准
   - [ ] 1年期和5年期以上的贷款利率由直接对应的LPR作为基准
+  - [ ] 1年期以内、1年至5年期贷款利率的参考基准，可由银行在二者之间自主选择。
 - 产生时间
   - [ ] 每月一次
 - 产生方式
@@ -37,11 +38,11 @@
   [# 时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTQwNTYwNSwtMTA5NzY4MTcxMywtMT
-YxNDIyODQ4Miw0MDkwNzY4NDksNjU2ODIwOTIzLC00MDA1MTk5
-NTQsLTkwNzI3Nzc3MywtMzU4NzQxMjIsMTczNjI3MDQzNywtMz
-Y5MDQ3MDU1LC0xMzMzNjk3MTI4LC0xMzA4OTIzNTAwLDY1OTA5
-Mzg0NCwxMzgzNDk1NDg5LDE3MTI5MDgzMjUsMTYxNDM5NjYzLD
-E1OTIyMzk3NjAsMTIyMzM0Njk1LDE0MTM4MjI3NjUsNDY3NjEw
-OTg2XX0=
+eyJoaXN0b3J5IjpbLTEwOTI5NTk5MDAsLTEwOTc2ODE3MTMsLT
+E2MTQyMjg0ODIsNDA5MDc2ODQ5LDY1NjgyMDkyMywtNDAwNTE5
+OTU0LC05MDcyNzc3NzMsLTM1ODc0MTIyLDE3MzYyNzA0MzcsLT
+M2OTA0NzA1NSwtMTMzMzY5NzEyOCwtMTMwODkyMzUwMCw2NTkw
+OTM4NDQsMTM4MzQ5NTQ4OSwxNzEyOTA4MzI1LDE2MTQzOTY2My
+wxNTkyMjM5NzYwLDEyMjMzNDY5NSwxNDEzODIyNzY1LDQ2NzYx
+MDk4Nl19
 -->
