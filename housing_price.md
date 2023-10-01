@@ -1,9 +1,9 @@
 # 蚂蚁购狱房指南
 
-> 前言：在某个城市购置一套自己的房产，对于某些年轻男性而言，是结婚的必要条件，
+> 前言：在某个城市购置一套自己的房产，对于某些年轻男性而言，是结婚的必要条件，就像
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTYyNjEzMDUsMjYxNDczMjM5LDExNj
-AyODk5OTMsODU2ODk0MjY5LDIxMzUwMjUwNjMsMTg1NTU1MjA2
-MF19
+eyJoaXN0b3J5IjpbNTkxODE4NzYxLC0xMzU2MjYxMzA1LDI2MT
+Q3MzIzOSwxMTYwMjg5OTkzLDg1Njg5NDI2OSwyMTM1MDI1MDYz
+LDE4NTU1NTIwNjBdfQ==
 -->
