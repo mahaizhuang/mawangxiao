@@ -31,6 +31,7 @@
   - [ ] 一年期LPR
   - [ ] 五年期LPR：像房贷就是典型的五年期LPR标准
  - 贷款利率:
+   - [ ] LPR(+-)n个基点
    - [ ] 1年期和5年期以上的贷款利率由直接对应的LPR作为基准
    - [ ] 1年期以内、1年至5年期贷款利率的参考基准，可由银行在二者之间自主选择。
   - 计算举例:LPR(+-)n个基点:比如郑州五年期LPR为4.2%，目前下降50个基点，那么
@@ -49,7 +50,7 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDExNzU4MywtNDI4ODY2Nzg2LC0xNz
+eyJoaXN0b3J5IjpbMjExOTI5MjAxOCwtNDI4ODY2Nzg2LC0xNz
 ExOTg3NzUwLDE5NDE3ODMwMjAsLTgxMDY2MTkyLC0xMjIzODUw
 MzAyLC0xMTcyNzg4OTA1LDg5NjAwMDU2MywtNjI1ODU2MDA4LC
 0xMDkyOTU5OTAwLC0xMDk3NjgxNzEzLC0xNjE0MjI4NDgyLDQw
