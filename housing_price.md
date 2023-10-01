@@ -17,11 +17,11 @@
     ```
     房贷利率 = LPR + 政策加点 + 银行加点
     ```
-一般购房贷款都是五年期LPR，但是近些年来看，五年期LPR基本没有变化，那只需要关注后面的参数就是了
+一般购房贷款都是五年期LPR，但是近些年来看，五年期LPR基本没有变化，那只需要关注后面的参数就是了，我们可以
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcxNjg2MTMsMTQxMzgyMjc2NSw0Nj
+eyJoaXN0b3J5IjpbLTEzNjY5NTQ3NTQsMTQxMzgyMjc2NSw0Nj
 c2MTA5ODYsLTIwMzc1MDE1MiwtMTc1MzE5NDExMSwxOTM1ODI3
 MDYwLC0yMjY3MTc2MDYsMjEwODEzNzIzOCwtNzUzODI1MzkwLC
 0xNzg5NjUyMzU5LDEzODU0MTk2NDMsNzQ5NDI0NTI1LC0xMDI4
