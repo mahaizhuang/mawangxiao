@@ -15,6 +15,7 @@
 
 [【2】房贷计算器](https://www.efangdai.cn/)
 
+[贷款市场报价利率(LPR)](https://www.chinamoney.com.cn/chinese/bklpr/)
 ---
   
 ## 房贷利率
@@ -46,7 +47,7 @@
 
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjYyMzIyMywtMTcxMTk4Nzc1MCwxOT
+eyJoaXN0b3J5IjpbMjEyOTE2NDU5NCwtMTcxMTk4Nzc1MCwxOT
 QxNzgzMDIwLC04MTA2NjE5MiwtMTIyMzg1MDMwMiwtMTE3Mjc4
 ODkwNSw4OTYwMDA1NjMsLTYyNTg1NjAwOCwtMTA5Mjk1OTkwMC
 wtMTA5NzY4MTcxMywtMTYxNDIyODQ4Miw0MDkwNzY4NDksNjU2
