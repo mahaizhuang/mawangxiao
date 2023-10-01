@@ -13,7 +13,7 @@
 ## 房贷利率
 ** 贷款市场报价利率（LPR）是由具有代表性的报价行，根据本行对最优质客户的贷款利率，以公开市场操作利率加点形成的方式报价，由人民银行授权全国银行间同业拆借中心计算并公布的基础性的贷款参考利率。 **
 - 作用
-- [ ] LPR已成为贷款利率定价的主要参考基准
+  - [ ] LPR已成为贷款利率定价的主要参考基准
 - LPR品种
   - [ ] 一年期LPR
   - [ ] 五年期LPR
@@ -31,11 +31,11 @@
   
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTc1NTM4MiwxNzM2MjcwNDM3LC0zNj
-kwNDcwNTUsLTEzMzM2OTcxMjgsLTEzMDg5MjM1MDAsNjU5MDkz
-ODQ0LDEzODM0OTU0ODksMTcxMjkwODMyNSwxNjE0Mzk2NjMsMT
-U5MjIzOTc2MCwxMjIzMzQ2OTUsMTQxMzgyMjc2NSw0Njc2MTA5
-ODYsLTIwMzc1MDE1MiwtMTc1MzE5NDExMSwxOTM1ODI3MDYwLC
-0yMjY3MTc2MDYsMjEwODEzNzIzOCwtNzUzODI1MzkwLC0xNzg5
-NjUyMzU5XX0=
+eyJoaXN0b3J5IjpbLTM1ODc0MTIyLDE3MzYyNzA0MzcsLTM2OT
+A0NzA1NSwtMTMzMzY5NzEyOCwtMTMwODkyMzUwMCw2NTkwOTM4
+NDQsMTM4MzQ5NTQ4OSwxNzEyOTA4MzI1LDE2MTQzOTY2MywxNT
+kyMjM5NzYwLDEyMjMzNDY5NSwxNDEzODIyNzY1LDQ2NzYxMDk4
+NiwtMjAzNzUwMTUyLC0xNzUzMTk0MTExLDE5MzU4MjcwNjAsLT
+IyNjcxNzYwNiwyMTA4MTM3MjM4LC03NTM4MjUzOTAsLTE3ODk2
+NTIzNTldfQ==
 -->
