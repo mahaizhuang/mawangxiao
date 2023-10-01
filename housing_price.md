@@ -20,7 +20,7 @@
   - [ ] 由18家报价银行独立报价，全国同业拆借中心按去掉最高和最低报价后算术平均，向0.05%的整数倍就近取整计算得出
 - LPR品种
   - [ ] 一年期LPR
-  - [ ] 五年期LPR
+  - [ ] 五年期LPR：像
  - 贷款利率:LPR(+-)n个基点:比如郑州五年期LPR为4.2%，目前下降50个基点，那么
 ```shell
 房贷利率 = LPR - BP = 4.2% - 0.5% = 3.7%
@@ -36,11 +36,11 @@
   [# 时隔20个月，贷款市场报价利率（LPR）首次“降息”——推动降低实体经济融资成本](https://www.gov.cn/xinwen/2021-12/22/content_5663932.htm)
    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDc2ODQ5LDY1NjgyMDkyMywtNDAwNT
-E5OTU0LC05MDcyNzc3NzMsLTM1ODc0MTIyLDE3MzYyNzA0Mzcs
-LTM2OTA0NzA1NSwtMTMzMzY5NzEyOCwtMTMwODkyMzUwMCw2NT
-kwOTM4NDQsMTM4MzQ5NTQ4OSwxNzEyOTA4MzI1LDE2MTQzOTY2
-MywxNTkyMjM5NzYwLDEyMjMzNDY5NSwxNDEzODIyNzY1LDQ2Nz
-YxMDk4NiwtMjAzNzUwMTUyLC0xNzUzMTk0MTExLDE5MzU4Mjcw
-NjBdfQ==
+eyJoaXN0b3J5IjpbNjU5MDYwMDA2LDQwOTA3Njg0OSw2NTY4Mj
+A5MjMsLTQwMDUxOTk1NCwtOTA3Mjc3NzczLC0zNTg3NDEyMiwx
+NzM2MjcwNDM3LC0zNjkwNDcwNTUsLTEzMzM2OTcxMjgsLTEzMD
+g5MjM1MDAsNjU5MDkzODQ0LDEzODM0OTU0ODksMTcxMjkwODMy
+NSwxNjE0Mzk2NjMsMTU5MjIzOTc2MCwxMjIzMzQ2OTUsMTQxMz
+gyMjc2NSw0Njc2MTA5ODYsLTIwMzc1MDE1MiwtMTc1MzE5NDEx
+MV19
 -->
