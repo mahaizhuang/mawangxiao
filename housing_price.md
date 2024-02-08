@@ -33,7 +33,9 @@
 
 [【9】贝壳研究院](https://research.ke.com/)
 
-[【10】克而瑞](\http://www.cricchina.com/#/home)
+[【10】克而瑞](http://www.cricchina.com/#/home)
+
+[【11】雪球:行情](https://xueqiu.com/hq)
 
 ---
   
