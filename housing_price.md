@@ -27,6 +27,14 @@
 
 [【6】郑州市住房保障和房地产管理局:商品房预售许可后信息公示搜索](http://218.28.223.13/zzzfdc/zhengzhou/permission.jsp?pn=&cn=&it=&pager.offset=60&page=5)
 
+[【7】国家统计局:分省月度数据](https://data.stats.gov.cn/mapdata.htm?cn=E0101)
+
+[【8】中指云](https://www.cih-index.com/)
+
+[【9】贝壳研究院](https://research.ke.com/)
+
+[【10】克而瑞](\http://www.cricchina.com/#/home)
+
 ---
   
 ## :city_sunrise:房贷利率
