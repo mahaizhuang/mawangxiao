@@ -120,7 +120,13 @@
 
 
 
-### :bone:房地产开发商
+### :bone:冬至日最低采光高度
+
+[【1】太阳高度角](https://www.osgeo.cn/app/s1904)
+
+![image](https://github.com/mahaizhuang/mawangxiao/assets/43605010/34328a80-ad54-453d-8eca-e37678cf8ed9)
+
+假设楼间距离为x,楼高为y,冬日日太阳角值是tan8
 
 ## :city_sunrise:抖音
 
