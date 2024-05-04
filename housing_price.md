@@ -122,11 +122,17 @@
 
 ### :bone:冬至日最低采光高度
 
-[【1】太阳高度角](https://www.osgeo.cn/app/s1904)
+[【1】开源地理空间基金会中文分会-太阳高度角计算](https://www.osgeo.cn/app/s1904)
+[【2】一个工具箱-太阳高度角计算](http://www.atoolbox.net/Tool.php?Id=1060)
 
 ![image](https://github.com/mahaizhuang/mawangxiao/assets/43605010/34328a80-ad54-453d-8eca-e37678cf8ed9)
 
 假设楼间距离为x,楼高为y,冬日日太阳角值是tan8
+
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
+
 
 ## :city_sunrise:抖音
 
