@@ -123,14 +123,21 @@
 ### :bone:冬至日最低采光高度
 
 [【1】开源地理空间基金会中文分会-太阳高度角计算](https://www.osgeo.cn/app/s1904)
+
 [【2】一个工具箱-太阳高度角计算](http://www.atoolbox.net/Tool.php?Id=1060)
 
 ![image](https://github.com/mahaizhuang/mawangxiao/assets/43605010/34328a80-ad54-453d-8eca-e37678cf8ed9)
 
-假设楼间距离为x,楼高为y,冬日日太阳角值是tan8
+> 假设楼间距离为x,楼高为y,冬至日正午太阳高度角值是Z，如果第一层在冬至日也能采到光，暂时忽略采光的时间，那么最低能够采光的楼间距是：
 
 $$
-\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+x= \frac{y}{\tan(\theta)}
+$$
+
+>> 假设所在楼盘冬至日正午太阳高度角值是26度,那么Z=0.4877
+
+$$
+x= \frac{y}{0.4877}
 $$
 
 
